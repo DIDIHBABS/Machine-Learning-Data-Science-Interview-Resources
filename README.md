@@ -10,6 +10,8 @@
 - ## Statistics
 - ## Probability
 - ## Business Problem Solving using Data Science
+- ## Non-Technical Data Science Interview Questions
+    - [Data Camp](https://www.datacamp.com/blog/data-scientist-interview-questions)
 - ## Natural Language Processing (NLP)
 - ## Computer Vision (CV)
 
