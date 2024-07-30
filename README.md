@@ -1,4 +1,4 @@
-# Machine-Learning-Data-Science-Interview-Resources
+# Machine Learning and Data-Science Interview Resources
 
 - ## Data Structures and Algorithms
 - ## Python: Machine Learning Specific
